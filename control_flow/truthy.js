@@ -31,8 +31,8 @@ let val1;
 // console.log(val1)
 
 // val1= undefined??15
-
-val1= undefined??15??10
+0
+val1= undefined??14??10
 console.log(val1)
 
 
