@@ -10,7 +10,7 @@ for (const key in myobj) {
     console.log(`${key} is the shortcut for ${myobj[key]}`)
 }
 
-const myarr=[1,2,3,4,5]
+const myarr=[1,2,3,4,5,6,7,8,9]
 for (const key in myarr) {
     console.log(`${key} is the index number for ${myarr[key]}`)
 }

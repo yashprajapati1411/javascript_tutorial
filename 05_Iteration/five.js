@@ -6,9 +6,9 @@ const coding=["js","rubby","java","python"]
 //  console.log(item);
 // })
 
-// coding.forEach( (val) => {
-//     console.log(val);
-// } )
+coding.forEach( (val) => {
+    console.log(val);
+} )
 
 // function printme(item){
 //     console.log(item);
