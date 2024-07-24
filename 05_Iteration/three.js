@@ -32,8 +32,8 @@ map.set('USA',"UNITED STATES OF AMERICA")
     const myobj={
         'GAme1' : "NFS",
         'GAme2' : "counterstrike"
-    }// object are not iterable
+    }// object are not iterable in for of
 
-    // for (const [game`:-`,value] of myobj) {
+    // for (const [game,value] of myobj) {
     //     console.log(game,value)
     // }
